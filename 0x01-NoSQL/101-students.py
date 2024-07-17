@@ -1,4 +1,4 @@
-#!/usr/bin/env pythons3
+#!/usr/bin/env python3
 '''function returns all students sorted by average score'''
 
 
